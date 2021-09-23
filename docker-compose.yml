@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - http_proxy=${http_proxy}
+        - https_proxy=${https_proxy}
+    volumes:
+      - ./app:/app
+    ports:
+      - 3000:3000
+        #command: yarn start --host=0.0.0.0
+
+volumes:
+    app:
