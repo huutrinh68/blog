@@ -1,5 +1,5 @@
 ---
-title: Đôi điều về lịch sử của anomaly detection
+title: Đôi điều lịch sử anomaly detection
 date: 2021-09-28
 categories:
  - ai
