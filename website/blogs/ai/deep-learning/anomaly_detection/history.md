@@ -1,6 +1,6 @@
 ---
 title: Đôi điều lịch sử anomaly detection
-date: 2021-09-28
+date: 2020-12-01
 categories:
  - ai
 tags:
