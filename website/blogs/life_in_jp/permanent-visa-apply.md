@@ -3,6 +3,7 @@ title: Chia sẻ kinh nghiệm xin visa vĩnh trú tại Nhật
 date: 2021-03-20
 tags: 
  - japan life
+ - visa
 ---
 
 Sau nhiều ngày tìm hiểu hồ sơ, sau nhiều tháng mong mỏi chờ đợi thì mình đã lấy được visa vĩnh trú tại đất nước mặt trời mọc.
