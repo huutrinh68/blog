@@ -15,7 +15,6 @@ Phân bố data trên tập train và tập test khác nhau là nguyên nhân l�
 Nếu chỉ đơn giản là làm sao để phân bố 2 tập train và test giống nhau, thì có thể thay đổi tập test sao cho giống tập train???
 
 Nghe có vẻ make sense. Nhưng cách này không ổn tí nào.
-
 Vì tập ta thực sự quan tâm ở đây là dữ liệu test. Dữ liệu này là dữ liệu dùng để đánh độ tốt xấu của model.
 
 ### Ví dụ cụ thể
@@ -31,7 +30,6 @@ Và thực tế, model phải làm sao để phân loại được những ảnh
 Thay đổi tập train???
 
 Ở đây để thay đổi tập train sao cho có phân bố giống với tập test, thì ta có thể có những phương pháp như tạo nhiễu, làm mờ ảnh bằng nhiều cách khác nhau.
-
 Chú ý một điều là nếu phương pháp làm nhiễu, mờ ảnh không có tính ngẫu nhiên, thì tập train sẽ mất đi tính tổng quát.
 
 Ví dụ nếu ta làm mờ theo một cách, và áp dụng cách đó cho tất cả các ảnh trong tập train, thì model của ta chỉ có thể phân biệt được những ảnh bị làm mờ theo cách đó. 
