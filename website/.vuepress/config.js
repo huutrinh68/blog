@@ -132,6 +132,7 @@ module.exports = {
           collapsable: true,
           children: [
             ["/blogs/ai/deep-learning/anomaly_detection/history", "Lịch sử phát triển"],
+            ["/blogs/ai/deep-learning/anomaly_detection/convolution_autoencoder", "Convolution AutoEncoder"],
           ]
         }
       ],
