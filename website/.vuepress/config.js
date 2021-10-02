@@ -21,8 +21,7 @@ module.exports = {
     [
       "script",
       {
-        async: true,
-        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6631455815655205",
+        async src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6631455815655205",
         crossorigin: "anonymous"
       }
     ]
